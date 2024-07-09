@@ -1,0 +1,9 @@
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.AssemblyReference.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\obj\Debug\Login_Screen.Properties.Resources.resources
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.GenerateResource.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\obj\Debug\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\bin\Debug\Login Screen.exe.config
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\bin\Debug\Login Screen.exe
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\bin\Debug\Login Screen.pdb
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\obj\Debug\Login Screen.exe
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Login Screen\Login Screen\obj\Debug\Login Screen.pdb
