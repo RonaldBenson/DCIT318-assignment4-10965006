@@ -1,0 +1,9 @@
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\obj\Debug\Drawing App.csproj.AssemblyReference.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\obj\Debug\Drawing_App.Properties.Resources.resources
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\obj\Debug\Drawing App.csproj.GenerateResource.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\obj\Debug\Drawing App.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\bin\Debug\Drawing App.exe.config
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\bin\Debug\Drawing App.exe
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\bin\Debug\Drawing App.pdb
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\obj\Debug\Drawing App.exe
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 4\Drawing App\Drawing App\obj\Debug\Drawing App.pdb

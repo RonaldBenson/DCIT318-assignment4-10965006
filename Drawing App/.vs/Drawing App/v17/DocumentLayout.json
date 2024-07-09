@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A66D9-6405-4313-816B-3E6F36DBA27A}|Drawing App\\Drawing App.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\drawing app\\drawing app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A66D9-6405-4313-816B-3E6F36DBA27A}|Drawing App\\Drawing App.csproj|solutionrelative:drawing app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A66D9-6405-4313-816B-3E6F36DBA27A}|Drawing App\\Drawing App.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\drawing app\\drawing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88A66D9-6405-4313-816B-3E6F36DBA27A}|Drawing App\\Drawing App.csproj|solutionrelative:drawing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A66D9-6405-4313-816B-3E6F36DBA27A}|Drawing App\\Drawing App.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\drawing app\\drawing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A66D9-6405-4313-816B-3E6F36DBA27A}|Drawing App\\Drawing App.csproj|solutionrelative:drawing app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\Drawing App\\Program.cs",
+              "RelativeDocumentMoniker": "Drawing App\\Program.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\Drawing App\\Program.cs",
+              "RelativeToolTip": "Drawing App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:24:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\Drawing App\\Form1.cs",
+              "RelativeDocumentMoniker": "Drawing App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\Drawing App\\Form1.cs",
+              "RelativeToolTip": "Drawing App\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:23:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\Drawing App\\Form1.cs",
+              "RelativeDocumentMoniker": "Drawing App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Drawing App\\Drawing App\\Form1.cs [Design]",
+              "RelativeToolTip": "Drawing App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:23:05.051Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
