@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\address book\\address book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|solutionrelative:address book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\address book\\address book\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|solutionrelative:address book\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\address book\\address book\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|solutionrelative:address book\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|c:\\users\\ronald benson\\desktop\\uni stuff\\level 300\\2nd sem\\dcit318- programming ii\\projects\\assignment 4\\address book\\address book\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77243107-1AE8-4C8D-8153-D2E3890780D3}|Address Book\\Address Book.csproj|solutionrelative:address book\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Program.cs",
+              "RelativeDocumentMoniker": "Address Book\\Program.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Program.cs",
+              "RelativeToolTip": "Address Book\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:59:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Form1.cs",
+              "RelativeDocumentMoniker": "Address Book\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Form1.cs",
+              "RelativeToolTip": "Address Book\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:58:36.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Address Book\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Form1.Designer.cs",
+              "RelativeToolTip": "Address Book\\Form1.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:58:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Form1.cs",
+              "RelativeDocumentMoniker": "Address Book\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ronald Benson\\Desktop\\Uni Stuff\\LEVEL 300\\2nd Sem\\DCIT318- Programming II\\Projects\\Assignment 4\\Address Book\\Address Book\\Form1.cs [Design]",
+              "RelativeToolTip": "Address Book\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:57:59.959Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
